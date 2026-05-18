@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-auth
+google-cloud-storage
+google-cloud-aiplatform
